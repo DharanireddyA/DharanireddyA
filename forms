@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>patient form</title>
+</head>
+<body>
+    <center><h1>PATIENT FORM</h1></center>
+    <center><h2>PATIENTS DETAILS</h2></center>
+    <form action="">
+    <label for="NAME">ENTER YOUR NAME:</label>
+    <input type="NAME"id="NAME"placeholder="FIRST NAME">
+    <input type="NAME"id-="NAME"placeholder="LAST NAME">
+    <br>
+    REGISTRATION ID:
+    <input type="number"placeholder="VALID number">
+    </br>
+    <br>
+    GENDER:
+    MALE<input type="radio"name="GENDER">
+    FEMALE<input type="radio"name="GENDER">
+    OTHER<input type="radio"name="GENDER">
+</br>
+<br>
+DATE OF BIRTH:
+<input type="date">
+</br>
+<br>
+AGE:
+<input type="number"placeholder="patients age">
+</br>
+HEIGHT:
+<input type="number">
+</br>
+<br>
+WEIGHT:
+<input type="number">
+</br>
+    <br>
+         MOBILE NUMBER:
+         <input type="number"placeholder="VALID number"> 
+    </br> 
+    <br>
+         ALTERNATE PHONE NUMBER:
+         <input type="number"placeholder="VALID number">
+</br>
+<br>
+ADDRESS:
+<textarea name="" id=""cols="60"rows="5"></textarea>
+</br>
+<center><h2>HEALTH</h2></center>
+HEIGHT:
+<input type="number">
+</br>
+<br>
+WEIGHT:
+<input type="number">
+</br>
+<br>
+DIAGNOSIS:
+<input type="name">
+</br>
+BP:
+<input type="number">
+<center><h2>ADMISSION DETALS</h2></center>
+<br>
+ANAESTHETIST:
+<input type="name">
+
+
+</br>
+ANAESATHETIC TYPE:
+Local<input type="radio"name="ANAESATHETIC TYPE">
+General<input type="radio"name="ANAESATHETIC TYPE">
+Epidural<input type="radio"name="ANAESATHETIC TYPE">
+Rag block<input type="radio"name="ANAESATHETIC TYPE">
+ICU Required<input type="radio"name="ANAESATHETIC TYPE">
+CCU Required<input type="radio"name="ANAESATHETIC TYPE">
+<br>
+Doctors signature: 
+<input type="name">
+</br>
+</form> 
