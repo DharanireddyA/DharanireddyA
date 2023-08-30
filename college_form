@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>COLLEGE FORM</title>
+</head>
+<body>
+    <center><h1>ADMISSION FORM</h1></center>
+    <center><h2>PERSONAL DATA</h2></center>
+    <form action=""></form>
+        <label for="NAME"> ENTER YOUR NAME:
+        </label>
+        <input type="NAME"id="NAME"placeholder="FIRST NAME">
+        <input type="NAME"id-="NAME"placeholder="LAST NAME">
+        <br>
+        GENDER:
+        MALE<input type="radio"name="GENDER">
+        FEMALE<input type="radio"name="GENDER">
+        OTHER<input type="radio"name="GENDER">
+    </br>
+    <br>
+    DATE OF BIRTH:
+    <input type="date">
+    </br>
+    <br>
+         MOBILE NUMBER:
+         <input type="number"placeholder="VALID number"> 
+    </br> 
+    <br>
+         ALTERNATE PHONE NUMBER:
+         <input type="number"placeholder="VALID number">
+</br>
+<br>
+ADDRESS:
+<textarea name="" id=""cols="60"rows="5"></textarea>
+</br>
+<center><h2>CONTACT DETAILS</h2></center>
+EMAIL:<input type="mail" name="Email">
+<br>CONTACT NO:<input type="number"placeholder="valid number"></br>
+<br>PARENTS CONTACT NO:<input type="number"placeholder="VALID number"></body></br>
+PERMANENT ADDRESS:
+<textarea name="" id=""cols="60"rows="5"></textarea>
+<center><h2>COURSE INFORMATION</h2></center>
+BRANCH:
+<brCSE<input type="radio"name="BRANCH"></br>
+<br>MECHANICAL<input type="radio"name="BRANCH"></br>
+<br>ECE<input type="radio"name="BRANCH"></br>
+<br>CIVIL<input type="radio"name="BRANCH"></br>
+<br>AI<input type="radio"name="BRANCH"></br>
+<br>DS<input type="radio"name="BRANCH"></br>
+
+
+</body>
+</html>
