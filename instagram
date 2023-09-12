@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>INSTA</title>
+    <style>
+        strong 
+        {
+            color:blue;
+        }
+        h5
+        {
+            color:rgb(37,128,158);
+        }
+    </style>
+</head>
+<body>
+    <center><img src="https://www.mediaweek.com.au/wp-content/uploads/2022/10/Instagram-logo.jpg" alt=""></center><br>
+    <center><input type="text" placeholder="username or email"></center><br>
+    <center><input type="text" placeholder="password"></center><br>
+    <center><input type="button" value="LOG IN"></center><br>
+    <center><p>-------------- OR ---------------</p></center>
+    <center><strong>LOG IN WITH FACEBOOK</strong></center>
+    <center><h5>Forgot Password</h5></center>
+    <center><p>Don't have an account?</p></center>
+    <center><input type="button" value="sign in"></center>
+</body>
+</html>
